@@ -1,0 +1,2 @@
+# premium-pivot-pol-001-clock-pivot-polishing-burnishe
+You've just finished burnishing a set of clock pivots, but can you remember the exact grade you achieved on each one? Without a consistent record, you risk inconsistency in performance and wasted time re-checking.  This Notion template eliminates guesswork by giving you a dedicated, structured log for every pivot you polish. Track burnisher grade,
